@@ -1,1 +1,2 @@
-Exploring and Implementing Unsupervised Learning Projects
+Exploring and Implementing Unsupervised Learning Assignments
+
